@@ -148,5 +148,5 @@ A success message appears in the terminal:<br>
 
 
 ## Contact
-If you have any questions, please feel free to reach out via email: arnavmurdande (at) gmx.net
+If you have any questions, please feel free to reach out via email: arnavmurdande@gmail.com
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
